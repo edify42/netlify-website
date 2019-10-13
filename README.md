@@ -22,3 +22,10 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Netlify Deployment
+
+Fairly straightforward and only required two steps (once you connected your GitHub account etc)
+
+1. Add the `yarn generate` command and specify the `dist` folder which is the output of the static site
+1. Configure the CNAME record to point your domain to the netlify hosted subdomain.
