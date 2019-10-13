@@ -1,5 +1,7 @@
 # netlify-website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7598b99b-e73e-433f-a565-4d4d5a774a59/deploy-status)](https://app.netlify.com/sites/sad-feynman-12d3e1/deploys)
+
 > My astounding Nuxt.js project
 
 ## Build Setup
